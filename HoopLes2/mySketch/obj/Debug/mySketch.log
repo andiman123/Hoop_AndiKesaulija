@@ -1,0 +1,39 @@
+﻿  main.cpp
+  ofApp.cpp
+  Particle.cpp
+  Spawner.cpp
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Particle.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Particle.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Spawner.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Spawner.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Particle.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Particle.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Particle.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Particle.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Spawner.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Spawner.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Spawner.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Spawner.cpp)
+d:\dropbox\hkujaar2\hoop\of_v0.9.3_vs_release\apps\hoop\hooples2\mysketch\src\ofApp.h(20): warning C4200: nonstandard extension used: zero-sized array in struct/union (compiling source file src\main.cpp)
+  d:\dropbox\hkujaar2\hoop\of_v0.9.3_vs_release\apps\hoop\hooples2\mysketch\src\ofApp.h(20): note: This member will be ignored by a defaulted constructor or copy/move assignment operator (compiling source file src\main.cpp)
+d:\dropbox\hkujaar2\hoop\of_v0.9.3_vs_release\apps\hoop\hooples2\mysketch\src\ofApp.h(20): warning C4200: nonstandard extension used: zero-sized array in struct/union (compiling source file src\ofApp.cpp)
+  d:\dropbox\hkujaar2\hoop\of_v0.9.3_vs_release\apps\hoop\hooples2\mysketch\src\ofApp.h(20): note: This member will be ignored by a defaulted constructor or copy/move assignment operator (compiling source file src\ofApp.cpp)
+     Creating library bin\mySketch_debug.lib and object bin\mySketch_debug.exp
+  mySketch.vcxproj -> D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\apps\HOOP\HoopLes2\mySketch\bin\mySketch_debug.exe
+  mySketch.vcxproj -> bin\mySketch_debug.pdb (Full PDB)
+  
+  	                   9	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\export\vs\x64\
+  	  *EXTRA File 		 1266176	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\apps\HOOP\HoopLes2\mySketch\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\apps\HOOP\HoopLes2\mySketch\bin\fmodexL.dll
