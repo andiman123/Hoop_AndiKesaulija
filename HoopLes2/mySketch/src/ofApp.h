@@ -4,11 +4,13 @@
 #include "Particle.h"
 #include "Spawner.h"
 
+#define ballcount 40
+
 class ofApp : public ofBaseApp{
 
 	public:
 
-		int ballcount;
+		
 		void setup();
 		void update();
 		void draw();
@@ -17,7 +19,10 @@ class ofApp : public ofBaseApp{
 
 		Spawner spawn;
 
-		Particle part1[];
+		//Heap?
+		//Particle* part1 = new Particle();
+		
+		Particle part1 [ballcount];
 		
 
 		

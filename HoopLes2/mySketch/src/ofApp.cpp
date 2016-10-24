@@ -6,7 +6,7 @@
 void ofApp::setup(){
 
 	//part1 = Particle();
-	ballcount = 40;
+	 
 
 	for (int i = 0; i < ballcount; i = i + 1) {
 		part1[i] = Particle();
