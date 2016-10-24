@@ -51,9 +51,9 @@ void Spawner::draw() {
 		for (vector<Particle>::iterator i = particles.begin(); i != particles.end(); i++) {
 			i->draw();
 		}
-
-	ofSetColor(ofColor(0, 0, 0, 255));
-	ofDrawCircle(position.x, position.y, 15);
+	//drawCircle
+	//ofSetColor(ofColor(0, 0, 0, 255));
+	//ofDrawCircle(position.x, position.y, 15);
 
 }
 void Spawner::keyPressed(int key) {
