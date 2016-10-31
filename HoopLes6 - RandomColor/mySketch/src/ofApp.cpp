@@ -13,7 +13,7 @@ void ofApp::setup(){
 void ofApp::update(){
 
 	
-	spawn.move();
+	spawn.move(1);
 	spawn.update();
 
 	

@@ -1,0 +1,48 @@
+﻿  main.cpp
+  ofApp.cpp
+  Spawner.cpp
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Spawner.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Spawner.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Spawner.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Spawner.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Spawner.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Spawner.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\dropbox\hkujaar2\hoop\of_v0.9.3_vs_release\apps\hoop_andikesaulija\hooples7\mysketch\src\Spawner.h(33): error C2371: 'Spawner::particles': redefinition; different basic types (compiling source file src\Spawner.cpp)
+  d:\dropbox\hkujaar2\hoop\of_v0.9.3_vs_release\apps\hoop_andikesaulija\hooples7\mysketch\src\Spawner.h(29): note: see declaration of 'Spawner::particles' (compiling source file src\Spawner.cpp)
+src\Spawner.cpp(21): error C2228: left of '.push_back' must have class/struct/union
+src\Spawner.cpp(23): error C2228: left of '.begin' must have class/struct/union
+src\Spawner.cpp(23): error C2228: left of '.end' must have class/struct/union
+src\Spawner.cpp(34): error C2228: left of '.begin' must have class/struct/union
+src\Spawner.cpp(34): error C2228: left of '.end' must have class/struct/union
+src\Spawner.cpp(51): error C2228: left of '.begin' must have class/struct/union
+src\Spawner.cpp(51): error C2228: left of '.end' must have class/struct/union
+src\Spawner.cpp(61): error C2228: left of '.push_back' must have class/struct/union
+src\Spawner.cpp(65): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  INTERNAL COMPILER ERROR in 'C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe'
+      Please choose the Technical Support command on the Visual C++
+      Help menu, or open the Technical Support help file for more information
+d:\dropbox\hkujaar2\hoop\of_v0.9.3_vs_release\apps\hoop_andikesaulija\hooples7\mysketch\src\Spawner.h(33): error C2371: 'Spawner::particles': redefinition; different basic types (compiling source file src\ofApp.cpp)
+  d:\dropbox\hkujaar2\hoop\of_v0.9.3_vs_release\apps\hoop_andikesaulija\hooples7\mysketch\src\Spawner.h(29): note: see declaration of 'Spawner::particles' (compiling source file src\ofApp.cpp)
+src\ofApp.cpp(21): error C2228: left of '.size' must have class/struct/union
+src\ofApp.cpp(21): error C2672: 'ofToString': no matching overloaded function found
+src\ofApp.cpp(21): error C2780: 'std::string ofToString(const T &,int,int,char)': expects 4 arguments - 1 provided
+  D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\utils\ofUtils.h(525): note: see declaration of 'ofToString'
+src\ofApp.cpp(21): error C2780: 'std::string ofToString(const T &,int,char)': expects 3 arguments - 1 provided
+  D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\utils\ofUtils.h(508): note: see declaration of 'ofToString'
+src\ofApp.cpp(21): error C2780: 'std::string ofToString(const T &,int)': expects 2 arguments - 1 provided
+  D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\libs\openFrameworks\utils\ofUtils.h(492): note: see declaration of 'ofToString'
+d:\dropbox\hkujaar2\hoop\of_v0.9.3_vs_release\apps\hoop_andikesaulija\hooples7\mysketch\src\Spawner.h(33): error C2371: 'Spawner::particles': redefinition; different basic types (compiling source file src\main.cpp)
+  d:\dropbox\hkujaar2\hoop\of_v0.9.3_vs_release\apps\hoop_andikesaulija\hooples7\mysketch\src\Spawner.h(29): note: see declaration of 'Spawner::particles' (compiling source file src\main.cpp)
+cl : Command line error D8040: error creating or communicating with child process

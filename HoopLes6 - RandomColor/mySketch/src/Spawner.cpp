@@ -24,7 +24,7 @@ void Spawner::setup() {
 		i->Particlesetup(position.x, position.y,ofRandom(0,2));
 	}
 	random = ofRandom(0, 10);
-	angle = 0,05;
+	angle = 0.05;
 	speed = 0.01;
 	radius = 200;
 	timeSpawner = 2;
@@ -35,11 +35,16 @@ void Spawner::update() {
 		i->moveParticle(position.x, position.y);
 	}
 }
-void Spawner::move() {
+void Spawner::move(int direc) {
 	
+	if (direc == 0) {
+		speed = -speed;
+	}
 
 	position = ofPoint(ofGetWidth() / 2 + sin(angle) * radius, ofGetHeight() / 2 + cos(angle) * radius);
 	angle = angle + speed;
+	
+	
 	//printf("%6.4lf", speed);
 	//printf("\n");
 }
@@ -52,8 +57,8 @@ void Spawner::draw() {
 			i->draw();
 		}
 	//drawCircle
-	//ofSetColor(ofColor(0, 0, 0, 255));
-	//ofDrawCircle(position.x, position.y, 15);
+	ofSetColor(ofColor(0, 0, 0, 255));
+	ofDrawCircle(position.x, position.y, 15);
 
 }
 void Spawner::keyPressed(int key) {

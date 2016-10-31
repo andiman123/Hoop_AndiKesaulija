@@ -18,7 +18,7 @@ public:
 
 	void setup();
 	void update();
-	void move();
+	void move(int direc);
 	
 	void draw();
 
